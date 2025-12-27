@@ -1,0 +1,8 @@
+https://reqres.in/
+curl -i -H "Content-Type:application/json" -XPOST "https://reqres.in/api/users" -d '{"name":"Harry", "job":"Manager"}'
+
+
+
+
+
+curl -i -H "Content-Type:application/json" -XPOST "https://reqres.in/api/register" -d '{"email":"eve.holt@reqres.in", "password":"pistol"}'
