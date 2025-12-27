@@ -1,0 +1,11 @@
+1. check that node is installed
+cmd 
+    node -v
+ if not installed , the download it from https:nodejs.org/en  and again check version
+
+2) once node is installed automatically  npm will be installed
+   npm -v
+3)install newmen with below command
+    npm install -g newman
+4)Check the version of newman
+   newman -version
